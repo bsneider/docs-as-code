@@ -15,7 +15,7 @@
 - Easy documentation review via pull requests
 - Definitive sign-off on changes by key members via pull requests
 - Documentation can live close to the thing it documents
-- Searchability across code and docs is in one place
+- Search-ability across code and docs is in one place
   - Especially with GitHub
 - Harder to have abandoned unhelpful pages - Less general docs clutter
 - Pages are less likely to be out of date when close to the thing they document
@@ -41,7 +41,8 @@ NOTE2: Markdown can be edited directly in the Stash website interface, without t
 - [davidanson.vscode-markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 - [Markdown Docs](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown)
   - Makes it super easy just use the classic `ctrl + shift + p` and start typing docs and it remembers markdown syntax so don't you have to!
-- [hediet.vscode-drawio](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
+- Drawio charting [hediet.vscode-drawio](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
+- Spell Checker [ban.spellright](https://marketplace.visualstudio.com/items?itemName=ban.spellright)
 
 ## Install Git
 

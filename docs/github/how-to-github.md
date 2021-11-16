@@ -26,9 +26,9 @@
 ### GitHub account settings for using enterprise account
 
 - Click on your photo (or the empty photo placeholder) to access your account’s settings.
-- Under email, add your @entperprise-name.com email if it isn’t there.
+- Under email, add your @enterprise-name.com email if it isn’t there.
 - You’ve get an email at that address to verify you can access that email’s inbox. If you don’t see the verification email, ask IT Security Operations team if an email from noreply@github.com to you has been quarantined.
-- Now, still in Setting, go to the bottom of the Notifications tab to “Custom Routing”, and edit the setting for Organization Org-Name to ensure it routes emails from that Organization to your @entperprise-name.com email address (and not a personal one).
+- Now, still in Setting, go to the bottom of the Notifications tab to “Custom Routing”, and edit the setting for Organization Org-Name to ensure it routes emails from that Organization to your @enterprise-name.com email address (and not a personal one).
 
 ## Setting up SSH with GitHub
 
@@ -41,7 +41,7 @@
 
 ### Adding Public SSH key
 
-- Open Github, and avigate to <>Code tab in relevant repo.
+- Open Github, and navigate to <>Code tab in relevant repo.
 - Click the green "Code" dropdown on the top right.
 - In the dropdown, click the SSH tab
 - Below the SSH address, click "add new SSH keys"

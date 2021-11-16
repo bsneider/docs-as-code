@@ -12,7 +12,7 @@
 - Is there any accountability with this system?
 - Who is responsible for holding the developer accountable to update this doc?
 - How much time does it take to verify the developer did what "they should" to this doc?
-- I dont understand the language in this doc... who do I escalate to?
+- I don't understand the language in this doc... who do I escalate to?
 - Who is held accountable when the docs are changed and no one approved the change, and it was not helpful?
 - Structure around the transition to operations
   

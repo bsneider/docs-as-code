@@ -5,7 +5,7 @@ Battle tested free, one-time fee educational resources, yearly fee that can be u
 - [Educational Resources](#educational-resources)
   - [Architecture](#architecture)
     - [AWS Solutions Architect](#aws-solutions-architect)
-  - [IaC (Infrastructue as code)](#iac-infrastructue-as-code)
+  - [IaC (Infrastructure as code)](#iac-infrastructure-as-code)
     - [Ansible](#ansible)
       - [Ansible 101 Course by Jeff Geerling aka GeerlingGuy](#ansible-101-course-by-jeff-geerling-aka-geerlingguy)
     - [Terraform](#terraform)
@@ -32,11 +32,11 @@ Getting certified can help improve your confidence and get you interviews, but i
 
 DESIGNED FROM SCRATCH FOR SAA-C02
 
-I've designed the course for the new version of the AWS Certified Solutions Architect - Associate (SAA-C02) certification released on March 23rd, 2020. Rather than updating existing content, I've created a course which directly aligns with the new structure, products, services and architectures contained in the SAA-C02 exam. In addition to SAA-C02, the course provides everything you need for the older SAA-C01 exam too. My commitment to you is this course is up to date when you enrol, and I'll keep it that way for a single lifetime enrolment fee. This course is kept constantly up to date (weekly), see below for the most recent update status.
+I've designed the course for the new version of the AWS Certified Solutions Architect - Associate (SAA-C02) certification released on March 23rd, 2020. Rather than updating existing content, I've created a course which directly aligns with the new structure, products, services and architectures contained in the SAA-C02 exam. In addition to SAA-C02, the course provides everything you need for the older SAA-C01 exam too. My commitment to you is this course is up to date when you enroll, and I'll keep it that way for a single lifetime enrollment fee. This course is kept constantly up to date (weekly), see below for the most recent update status.
 
 🚨 The course is currently on update #45 (Late April 2021) and is 100% valid for the current version of the exam. 🚨"
 
-## IaC (Infrastructue as code)
+## IaC (Infrastructure as code)
 
 ### Ansible
 
@@ -53,7 +53,7 @@ Completing this course will solve the following questions:
 - Is ansible the golden hammer (aka the right tool for everything)?
 
 Jeff is a fantastic educator, here is a link to his website [https://www.jeffgeerling.com](https://www.jeffgeerling.com).
-His course on ansible for DevOps is completely 100% free on [youtube](https://www.youtube.com/watch?v=goclfp6a2IQ&list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN). The series is 15 videos long, each video in the format of a recorded livestream. Each video is further broken down into small chunks based on the topic, while not recommended for ealier videos, which provide key base knowledge, for later vidoes jumping around to the content you need is ideal, the small labeled video segments help. Jeff calmly brings his audience from Ansible 0 to Ansible Hero, highlighting best practices, and how to resolve pitfalls. Server and credential security are pervasive throughout, with Jeff often buying hosted servers on the cheapest, and therefore least secure from the start servers. It has an accompanying [GitHub Repo](https://github.com/geerlingguy/ansible-for-devops), and paid book [Ansible for DevOps book $9.99](https://www.ansiblefordevops.com).
+His course on ansible for DevOps is completely 100% free on [youtube](https://www.youtube.com/watch?v=goclfp6a2IQ&list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN). The series is 15 videos long, each video in the format of a recorded livestream. Each video is further broken down into small chunks based on the topic, while not recommended for earlier videos, which provide key base knowledge, for later videos jumping around to the content you need is ideal, the small labeled video segments help. Jeff calmly brings his audience from Ansible 0 to Ansible Hero, highlighting best practices, and how to resolve pitfalls. Server and credential security are pervasive throughout, with Jeff often buying hosted servers on the cheapest, and therefore least secure from the start servers. It has an accompanying [GitHub Repo](https://github.com/geerlingguy/ansible-for-devops), and paid book [Ansible for DevOps book $9.99](https://www.ansiblefordevops.com).
 Supporting content creators that add value is recommended.
 
 ### Terraform
@@ -130,9 +130,9 @@ Instructor: Adrian Cantrill
 
 **LEARN REAL SKILLS:** This course isn’t just about the exam, the AWS Certified SysOps Administrator Associate is one of the most valuable certifications available in IT - but obtaining $100,000+ cloud positions will require experience as well as accreditation. By the end of the course, you will be prepared to pass the exam confidently while also having gained enough experience to use AWS day to day from a operational and administration perspective.
 
-**SCENARIO BASED:** The course is based around a real-world like organisation Animals4life.org. The theory and demo lessons are structured around scenarios which you will encounter in the real world. Whether we're talking about serverless applications, data migration and connecting AWS to on-premises environments using a Site-to-Site VPN - the things you learn will be useful in the real world.
+**SCENARIO BASED:** The course is based around a real-world like organization Animals4life.org. The theory and demo lessons are structured around scenarios which you will encounter in the real world. Whether we're talking about serverless applications, data migration and connecting AWS to on-premises environments using a Site-to-Site VPN - the things you learn will be useful in the real world.
 
-**RESPECTS YOUR TIME:** I promise to respect your time. Everything in the course is either relevant to the exam, or will provide the surrounding knowledge which will help you pass with confidence; while also gaining the practical experience needed to get access to exciting job opportunities. Lessons are never more than 20 minutes and often much shorter - I prioritise efficiency, not duration. Each section includes a quiz helping you retain knowledge, and at the end of the course, we’ve designed a full practice exam which mirrors real-world conditions.
+**RESPECTS YOUR TIME:** I promise to respect your time. Everything in the course is either relevant to the exam, or will provide the surrounding knowledge which will help you pass with confidence; while also gaining the practical experience needed to get access to exciting job opportunities. Lessons are never more than 20 minutes and often much shorter - I prioritize efficiency, not duration. Each section includes a quiz helping you retain knowledge, and at the end of the course, we’ve designed a full practice exam which mirrors real-world conditions.
 
 **TECHNICAL FOUNDATIONS AND AWS:** The course covers the essential architectural concepts as they relate to AWS but also covers the core AWS products featured in the exam in some depth. Topics covered include:-
 
