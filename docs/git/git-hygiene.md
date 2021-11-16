@@ -12,7 +12,7 @@
 Course by Brandon Sneider (Senior Platform Engineer)
 
 - Leader of Cloud Advisory Council, Cloud Elite (Dev Leads and Above), and Security Council
-- Led development Algorithm use to trade 40+ BN USD of AUM
+- Led development Algorithm used to trade 40+ BN USD of AUM
 - Led development of distributed system DailyIndex
 - Creator of serverless, multi-cloud, multi-platform mobile apps
 
