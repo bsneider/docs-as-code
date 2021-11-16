@@ -9,10 +9,11 @@
 ## About the Instructor
 
 Course by Brandon Sneider (Senior Platform Engineer)
-Leader of Cloud Advisory Council, Cloud Elite (Dev Leads and Above), and Security Council
-Led development of T3 Buy & Hold Algorithm use to trade 40+ BN USD of AUM
-Led development of distributed system DailyIndex
-Creator of serverless, multi-cloud, multi-platform mobile apps
+
+- Leader of Cloud Advisory Council, Cloud Elite (Dev Leads and Above), and Security Council
+- Led development Algorithm use to trade 40+ BN USD of AUM
+- Led development of distributed system DailyIndex
+- Creator of serverless, multi-cloud, multi-platform mobile apps
 
 ## Additional Resources
 
@@ -34,3 +35,5 @@ Creator of serverless, multi-cloud, multi-platform mobile apps
 - Un-approving PR after new commits
   - Re-reviewing after new commits
 - Creating a branch with the proper branch naming convention
+- Opening a PR
+- Adding reviewers to PR
