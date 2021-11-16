@@ -5,6 +5,7 @@
   - [Additional Resources](#additional-resources)
   - [Prerequisites](#prerequisites)
   - [Course](#course)
+    - [First session](#first-session)
 
 ## About the Instructor
 
@@ -28,12 +29,25 @@ Course by Brandon Sneider (Senior Platform Engineer)
 
 ## Course
 
+### First session
+
 - Pull Requests (PR) aka Merge Requests (MR)
-- PR as a tool for collaboration
-- Showstoppers vs nice to have
-- Marking conversations as resolved
-- Un-approving PR after new commits
-  - Re-reviewing after new commits
+  - PR as a tool for collaboration
+  - Showstoppers vs nice to have
+  - Marking conversations as resolved
+  - Un-approving PR after new commits
+    - Re-reviewing after new commits
+  - Searching for PR comments after merging
+- Cloning a Repo
+  - SSH
+  - Where on my local machine to clone to
+  - `git clone ...`
+  - `git pull ...`
+  - The vscode GUI
 - Creating a branch with the proper branch naming convention
 - Opening a PR
 - Adding reviewers to PR
+- What is a Remote
+  - What is Origin
+  - I committed changes but don't see them online
+  - Is stash different than BitBucket
