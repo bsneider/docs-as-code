@@ -14,6 +14,6 @@ Creator of serverless, multi-cloud, multi-platform mobile apps
 
 ## Prerequisites
 
-- [How to Git Hub](../github/HowToGitHub.md)
-- [How to Markdown](../docsAsCode/HowToMarkdown.md)
-- [DocsAsCode](../docsAsCode/DocsAsCode.md)
+- [How to Markdown](../docs-as-code/how-to-markdown.md)
+- [DocsAsCode](../docs-as-code/docs-as-code.md)
+- [How to Git Hub](../github/how-to-github.md)
