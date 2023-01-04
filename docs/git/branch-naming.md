@@ -11,6 +11,8 @@
      - JIRA
        - `feature/<jira-ticket>_<short_description>`
        - Eg: feature/ProjectID-78_arch-checklist
+     - Gitlab
+       - e.g. `feature/35_arch-checklist` 
      - GitHub Issues / Projects
        - `feature/<IssueNumber>_<short_description>`
        - Eg: feature/#35_arch-checklist
